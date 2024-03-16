@@ -49,5 +49,6 @@ This is a simple QR Code App that allows users to generate QR codes from input t
 - pillow 
 - qrcode 
 - pyzbar
+- pyperclip
 
 
